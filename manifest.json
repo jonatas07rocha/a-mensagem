@@ -1,6 +1,6 @@
 {
-  "name": "Visualizador Web",
-  "short_name": "Visualizador",
+  "name": "A Mensagem",
+  "short_name": "A Mensagem",
   "description": "Um visualizador simples para exibir páginas da web.",
   "start_url": "index.html",
   "display": "fullscreen",
